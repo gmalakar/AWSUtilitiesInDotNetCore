@@ -1,0 +1,6 @@
+AWSZipAndDownload/bin/Debug/
+AWSZipAndDownload/bin/Release/
+AWSZipAndDownload/.vs/
+AWSZipAndDownload/.lambda-test-tool/
+AWSZipAndDownload/obj/
+AWSZipAndDownload.Tests

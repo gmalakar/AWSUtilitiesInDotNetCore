@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSZipAndDownload", "AWSZipAndDownload.csproj", "{CA936C03-065C-4FF5-A55D-F0A2656D6A8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSZipAndDownload.Tests", "..\AWSZipAndDownload.Tests\AWSZipAndDownload.Tests.csproj", "{C03914B1-38EB-4D58-BB1F-92D7B8F49C1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA936C03-065C-4FF5-A55D-F0A2656D6A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA936C03-065C-4FF5-A55D-F0A2656D6A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA936C03-065C-4FF5-A55D-F0A2656D6A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA936C03-065C-4FF5-A55D-F0A2656D6A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03914B1-38EB-4D58-BB1F-92D7B8F49C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03914B1-38EB-4D58-BB1F-92D7B8F49C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03914B1-38EB-4D58-BB1F-92D7B8F49C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03914B1-38EB-4D58-BB1F-92D7B8F49C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53548AA-1C26-441B-BA24-CA1CC2CE06D7}
+	EndGlobalSection
+EndGlobal
